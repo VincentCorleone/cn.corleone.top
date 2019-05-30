@@ -1824,17 +1824,6 @@ pre .javascript .function {
   border-bottom-color: #555;
   font-size: 13px;
 }
-.links-of-author a:before,
-.links-of-author span.exturl:before {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 3px;
-  content: " ";
-  width: 4px;
-  height: 4px;
-  border-radius: 50%;
-  background: #41625b;
-}
 .feed-link,
 .chat {
   margin-top: 10px;
